@@ -1,0 +1,5 @@
+order_id,amount,currency
+A100,42.50,INR
+A101,12,USD
+A101,-3,USD
+A103,20,XYZ
